@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <nav class="navbar navbar-expand-lg bg-light">
+  <div class="container-fluid">
+	<a class="navbar-brand" href="#">Navbar</a>
+	<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  	<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarSupportedContent">
+  	<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+    	<li class="nav-item">
+      	<a class="nav-link active" aria-current="page" href="#">Home</a>
+    	</li>
+    	<li class="nav-item">
+      	<a class="nav-link" href="#">Page2</a>
+    	</li>
+    	<li class="nav-item dropdown">
+      	<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        	Dropdown
+      	</a>
+      	<ul class="dropdown-menu">
+        		<li><a class="dropdown-item" href="#">Link1</a>https://www.msn.com/en-us/news/newscrime</li>
+        		<li><a class="dropdown-item" href="#">Link2</a></li>
+        		<li><a class="dropdown-item" href="#">Link3</a></li>
+      	</ul>
+    	</li>
+  	</ul>
+	</div>
+  </div>
+</nav>
+    <head>
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Ohio State</title>
+              <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+        <style>
+            body {
+                background-color: #e32481;
+            }
+          nav { background-color: blueviolet;}
+            h1, h3 {
+              
+                color: #000000;
+            }
+            img {
+                float: right;
+                height: 100px;
+            }
+            #main-campus {
+                color: #bb0000;
+            }
+            .regional-campus {
+                color: green;
+            }
+            p {
+                color: black;
+            }
+            #band-info {
+                color: black;
+                font-weight: bold;
+            }
+         
+        </style>
+    </head>
+    <body>
+        <h1> 
+            PUPPET HISTORY
+            <img src= "https://th.bing.com/th/id/OIP.ib8KpYL7Upl9LMMNAUdJJQHaEH?pid=ImgDet&rs=1">
+         
+        </h1>
+        <p> The show begins with the Professor, a blue puppet, greeting the guests from a puppet theater stage. The contestants are almost always Ryan Bergara and one other person. The Professor then tells a story about history. He stops every few minutes to ask the two guests questions, which are sometimes multiple choice; whoever answers correctly, or as close to correctly as possible, receives points (referred to as "jelly beans").
+
+The scoring is relatively loose, and a contestant may be awarded more than one point, or just half a point, for their answer, as well as extra points being awarded as the Professor sees fit. The show presents parts of the story and answers to some questions through reenactments of scenes using paper cutouts of people from history. The prize is a small plastic trophy containing jelly beans or another small prize. The Professor refers to it as the "coveted cup and title of History Master" in his opening speech and at other times during the episode.
+
+The Professor encourages the guests to tell jokes and is often more attentive towards the guests than to Bergara. Before the end of the show, the Professor leaves to "tally the score" using "our complex victory algorithm," and another puppet or puppets come onto the stage and sing a song about the historical event.
+
+For the first four seasons, the Professor claims that the algorithm has awarded the cup and title of "History Master" to the guest contestants, regardless of who actually acquired more points.[a] In season five, this trend was inverted, and Bergara won almost every episode (with the exception of episode six) regardless of his point total. However, due to a "supply chain issue" in sourcing the trophies, Bergara instead won a Puppet History-themed moisturizer every episode (except episode 5, when a "Yankee Dodge"-flavored vape was presented as prize). This is later revealed to be a plot by the Professor, actually an evil holographic doppelganger, to steal Bergara's flesh and use it as a body.</p>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+
+
+     
+      </html>
